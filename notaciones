@@ -1,0 +1,14 @@
+1. Dividir y vencer -> dividir nuestra solucion en partes pequeñas y luego unir todo
+2. Codigo simple -> Codigo menos lineas posibles y refactorizar
+3. Metodologia -> Iteraciones -> 
+
+Estandares 
+
+1. Identificadors.
+    - UpperCamelCase -> Clases, enums, typedef, extensions
+    - lowerCamelCase -> variables, metodos 
+    - lowercase_with_underscore -> archivos y directorios
+
+2. if-else
+
+

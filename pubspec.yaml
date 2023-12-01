@@ -1,0 +1,11 @@
+name: mi_proyecto
+description: Un proyecto de Dart sin Flutter
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  # Agrega tus dependencias aquí
+
+dev_dependencies:
+  test:
